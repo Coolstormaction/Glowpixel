@@ -5,3 +5,5 @@ Glowpixel is a faithful recreation of the beloved Hypixel server in Minecraft. I
 Above source code is licensed with the MIT License.
 
 Note: Click the navigation buttons in website to explore!
+
+https://glowpixel.github.io
