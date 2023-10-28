@@ -7,3 +7,4 @@ Above source code is licensed with the MIT License.
 Note: Click the navigation buttons in website to explore!
 
 https://glowpixel.github.io
+Join the glowpixel discord now to play! - https://discord.gg/DxFmapUVSq
